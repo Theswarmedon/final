@@ -6,7 +6,7 @@ Fecha de entrega: 1 de Junio de 2026
 ---
 
 1. Título del Proyecto
-SaludSinEsperas: Optimización y gestión de flujo de pacientes en centros médicos de asistencia primaria.
+Secure D. Date: Optimización y gestión de flujo de pacientes en centros médicos de asistencia primaria.
 
 2. Integrantes
 * Santiago
